@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVP_Demo</string>
+
+    <string name="listview_header_hint_normal">pull down to refresh</string>
+    <string name="listview_header_hint_release">release to refresh</string>
+    <string name="listview_loading">loading</string>
+    <string name="nomore_loading">no more data</string>
+    <string name="refreshing">refreshing</string>
+    <string name="refresh_done">done refreshing</string>
+    <string name="listview_header_last_time">last update：</string>
+    <string name="sample_date">2016-10-06 20:45:35</string>
+    <string name="sample_content_long">I need a long content. I need a long content. I need a long content. I need a long content. I need a long content. I need a long content. I need a long content. I need a long content. </string>
+    <string name="sample_content_short">I need a short content.</string>
+</resources>
+
